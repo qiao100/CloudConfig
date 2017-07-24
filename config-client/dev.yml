@@ -2,7 +2,7 @@ eureka:
   client:
    service-url:
       defaultZone: http://eureka1:10001/eureka/
-foo: dev----dev
+foo: 123242424dev
 spring:
   application:
      name: config-client
